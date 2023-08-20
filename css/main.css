@@ -38,7 +38,7 @@ a {
     margin-right: auto;
 }
 
-@media (min-width:768px) {
+@media (min-width:818px) {
     .container {
         width: 750px;
     }
@@ -192,13 +192,13 @@ header .container nav .icon i:hover {
     cursor: pointer;
 }
 
-@media(min-width:768px) {
+@media(min-width:818px) {
     header nav .menu {
         display: none;
     }
 }
 
-@media(max-width:767px) {
+@media(max-width:817px) {
     header .container nav ul {
         background-color: hsla(0, 0%, 0%, 0.7);
         display: none;
